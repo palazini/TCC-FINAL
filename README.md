@@ -41,6 +41,6 @@ Este projeto, apresentado como TCC no **SENAI Jandira**, combina sensores e o mi
 -Configure o envio para WEGnology (opcional, veja a documentação).
 
 
-💡 Autor: Gabriel Soares Palazini
-📚 Instituição: SENAI Jandira
-📬 Contato: gabrielpalazini1@gmail.com
+##💡 Autor: Gabriel Soares Palazini
+##📚 Instituição: SENAI Jandira
+##📬 Contato: gabrielpalazini1@gmail.com
