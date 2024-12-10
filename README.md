@@ -35,3 +35,12 @@ Este projeto, apresentado como TCC no **SENAI Jandira**, combina sensores e o mi
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/monitoramento-sistemas-eletricos.git
+-Configure o ambiente ESP-IDF no VSCode.
+-Ajuste os pinos e parâmetros no arquivo main.c conforme o hardware.
+-Compile e faça o upload para o ESP32.
+-Configure o envio para WEGnology (opcional, veja a documentação).
+
+
+💡 Autor: Gabriel Soares Palazini
+📚 Instituição: SENAI Jandira
+📬 Contato: gabrielpalazini1@gmail.com
