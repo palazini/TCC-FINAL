@@ -42,6 +42,6 @@ Este projeto, apresentado como TCC no **SENAI Jandira**, combina sensores e o mi
 
 
 ## 💡 Autor: Gabriel Soares Palazini
-## © Contribuições: Henrique Coqueiro Ferraz [referente à biblioteca IOPLACA](https://github.com/Coqueiro-Ferraz)
+## © Contribuições: Henrique Coqueiro Ferraz(https://github.com/Coqueiro-Ferraz) [referente à biblioteca IOPLACA]
 ## 📚 Instituição: SENAI Jandira
 ## 📬 Contato: gabrielpalazini1@gmail.com
